@@ -5,6 +5,8 @@ import About from "./pages/About";
 import Navbar from "./components/Navbar";
 import Vans from "./pages/Vans";
 
+import './server'
+
 function App() {
   return (
     <BrowserRouter>
